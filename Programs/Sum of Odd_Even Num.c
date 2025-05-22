@@ -29,6 +29,6 @@ O/P:
 Enter the start number: 1
 Enter the end number: 5
 Total sum of even numbers: 6
-Total number of odd numbers: 3
+Total number of odd numbers: 9
 
 */
